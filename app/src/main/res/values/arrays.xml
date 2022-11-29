@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="settings_theme">
+        <item>Follow system</item>
+        <item>Day</item>
+        <item>Night</item>
+    </string-array>
+
+    <string-array name="settings_language">
+        <item>English</item>
+        <item>Vietnamese</item>
+    </string-array>
+</resources>
